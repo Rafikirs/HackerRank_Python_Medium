@@ -1,3 +1,10 @@
+# Exercise: The Minion Game
+# URL: https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
+# Description: This function implements The Minion Game, where two players (Kevin and Stuart) score points based on substrings of a given string.
+# Kevin scores points for substrings starting with vowels.
+# Stuart scores points for substrings starting with consonants.
+# The function calculates each player's score and prints the winner's name with their score, or "Draw" if scores are equal.
+
 def minion_game(string):
     kevin_score = 0
     stuart_score = 0
