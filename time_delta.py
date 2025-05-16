@@ -1,6 +1,7 @@
 # Exercice: Time Delta
 # URL: https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true
-# Description: We are given two dates with a time in hours, minutes and seconds. The aim is to retrieve the absolute difference between them
+# Description: We are given two dates with a time in hours, minutes and seconds as well as a time zone. 
+# The aim is to retrieve the absolute difference between them
 
 from datetime import datetime
 
