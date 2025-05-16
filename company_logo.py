@@ -1,4 +1,4 @@
-# Exercice: Company Logo
+# Exercise: Company Logo
 # URL: https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true
 # Description: Print the three most common characters of a string along with their occurrence count
 
