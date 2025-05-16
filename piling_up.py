@@ -1,4 +1,4 @@
-# Exercice: Piling Up!
+# Exercise: Piling Up!
 # URL: https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true
 # Description: This program checks if it's possible to stack a series of cubes into a vertical pile 
 # where each cube is equal to or smaller than the cube directly beneath it.
