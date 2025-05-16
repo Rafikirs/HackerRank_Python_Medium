@@ -1,6 +1,11 @@
+# Exercice: Piling Up!
+# URL: https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true
+# Description: This program checks if it's possible to stack a series of cubes into a vertical pile 
+# where each cube is equal to or smaller than the cube directly beneath it.
+
 def can_stack_cubes(blocks):
     left, right = 0, len(blocks) - 1
-    last_block = float('inf')  # Start with an infinitely large block on top (so any cube can go first)
+    last_block = float('inf')  
     
     while left <= right:
         if blocks[left] >= blocks[right]:
