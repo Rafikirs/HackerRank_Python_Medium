@@ -1,3 +1,7 @@
+# Exercice: Company Logo
+# URL: https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true
+# Description: Print the three most common characters of a string along with their occurrence count
+
 if __name__ == '__main__':
     s = input()
     freq = {}
